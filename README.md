@@ -23,9 +23,9 @@ The project analyzes Qantas flight reviews from Skytrax to uncover customer sati
 ## Technologies
 
 - Python with NLTK, Transformer and Pandas
-- Jupyter Notebook: ![theme_analysis.ipynp](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/python/theme_analysis.ipynb)
+- Jupyter Notebook: [theme_analysis.ipynp](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/python/theme_analysis.ipynb)
 - Snowflake
-- Power BI Desktop: ![Qantas Analysis Power Bi Dashboard](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/report/Qantas_Reviews_analysis_Dashboard.pbix  )
+- Power BI Desktop: [Qantas Analysis Power Bi Dashboard](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/report/Qantas_Reviews_analysis_Dashboard.pbix  )
 
 ---
 
