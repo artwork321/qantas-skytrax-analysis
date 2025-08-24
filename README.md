@@ -49,7 +49,7 @@ A route-specific analysis revealed a clear difference in the nature of complaint
 
 - Routes from Melbourne were mainly criticized for flight delays.
 
-For more detail report: [Qantas Review Insights](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/report/Insights.pdf)]
+For more detail report: [Qantas Review Insights](https://github.com/artwork321/qantas-skytrax-analysis/blob/main/report/Insights.pdf)
 
 
 ---
