@@ -6,9 +6,12 @@ The project analyzes Qantas flight reviews from Skytrax to uncover customer sati
 
 ## Project Overview
 
+- **Planning:** Writing down plans and defining the scope of the project.  
 - **Identify Worst Routes:** Shows which flight routes have the highest proportion of bad-to-medium reviews.  
-- **Theme Analysis:** Creates themes that cover most aspects of Airline Service, and highlights the most frequent issues.
-- **Keyword Analysis:** Extract common words in low-rating reviews to understand deeper what exactly was complaint about.
+- **Theme Analysis:** Creates themes that cover most aspects of airline service and highlights the most frequent issues.  
+- **Keyword Analysis:** Extracts common words in low-rating reviews to understand what exactly customers complained about.  
+- **Dashboard:** Visualizes the analysis with charts and graphs, making it easy to see trends in reviews, themes, and keywords across different routes and time periods.  
+- **Insight and Recommendation:** Summarizes key findings from the analysis and provides actionable suggestions for improving service quality on the worst-performing routes.  
 
 ---
 
